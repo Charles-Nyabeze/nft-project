@@ -1,0 +1,19 @@
+{
+    "name": "Bera",
+    "symbol": "MRKT",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "JCLD5U9WkiRWa6oGUKq5qPH8wm4YBiNYdWXfTaFYiv4e",
+          "share": 100
+        }
+      ]
+    }
+  }

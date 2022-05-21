@@ -1,0 +1,19 @@
+{
+    "name": "Bulla",
+    "symbol": "MRKT",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "JCLD5U9WkiRWa6oGUKq5qPH8wm4YBiNYdWXfTaFYiv4e",
+          "share": 100
+        }
+      ]
+    }
+  }

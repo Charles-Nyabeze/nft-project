@@ -1,0 +1,19 @@
+{
+    "name": "Cool-Bera",
+    "symbol": "MRKT",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "JCLD5U9WkiRWa6oGUKq5qPH8wm4YBiNYdWXfTaFYiv4e",
+          "share": 100
+        }
+      ]
+    }
+  }
